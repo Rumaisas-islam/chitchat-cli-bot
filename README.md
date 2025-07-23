@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rumaisas-islam/chitchat-cli-bot/main/banner.png" alt="ChitChat CLI Bot Banner" width="100%">
+</p>
+
 # 💬 ChitChat CLI Bot
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Rumaisas-islam/chitchat-bot?style=social)
